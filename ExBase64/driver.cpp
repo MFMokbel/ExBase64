@@ -160,7 +160,7 @@ namespace driver
 
 	// based on a given list of input args as set by the function "parse_args", 
 	// this function is responsible for executing them accordingly by calling 
-	// relevant methods from the base64 class
+	// relevant methods from the Base64 class
 	// _in_ (arg_opts) : an object of type std::unique_ptr<driver::args> which
 	//					 has all input args information
 	void 
