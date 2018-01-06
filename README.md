@@ -44,7 +44,7 @@ Output: hello world
 
 # Binaries
 
-Although the code has no OS depdendency, I'm only releasing Windows 32-bit and 64-bit executables. It should be a straightforward task to compile it for other OSes.
+Although the code has no OS depdendency, I'm only releasing Windows 32-bit and 64-bit executables. It should be a straightforward task to compile it for other OSes. Binaries are located under the **Release** folder.
 
 # Requirements
 
