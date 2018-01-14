@@ -49,3 +49,7 @@ Although the code has no OS depdendency, I'm only releasing Windows 32-bit and 6
 # Requirements
 
 The only requirement is a C++ compiler with support for C++11 and C++14.
+
+# Contributing
+
+Open for pull requests and issues. Comments and suggestions are greatly appreciated.
