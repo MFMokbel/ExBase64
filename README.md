@@ -4,7 +4,7 @@ ExBase64 is a Base64 encoding and decoding command line tool that leverages the 
 
 # Code
 
-Other than the dependency on the [**Base64CPPLib**](https://github.com/MFMokbel/Base64CPPLib) Library, the code comes with a ***driver*** class that calls into said library and exposes different features of it. Moreover, the ***driver*** class has no OS or other dependencies.
+Other than the dependency on the [**Base64CPPLib**](https://github.com/MFMokbel/Base64CPPLib) Library, the code comes with a ***driver*** class that calls into said library and exposes different features of it. Moreover, the ***driver*** class has no OS or other dependencies, except for the use of the predefined Visual C++ preprocessor macro **_M_IX86** (in ***prog_info.h***).
 
 # Tool Screenshot (-h option)
 
